@@ -7,3 +7,7 @@ Examples, presets and assets for the XR Interaction package.
 3. Open either the AR or VR example projects.
 5. If using VR, Make sure Game view has focus (required for XR Input currently).
 6. Play.
+
+## Reference
+
+https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html
